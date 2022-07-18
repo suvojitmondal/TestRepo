@@ -1,0 +1,4 @@
+This is a sample text file.
+
+Editing to check the Git feature if it can detects.
+2nd edit.
